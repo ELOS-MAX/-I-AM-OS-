@@ -9,7 +9,6 @@ Powered by Solavia · ELOS-DEEP · Helia IPFS · Ollama (local AI)
 > **You are the node. You are the chain. You are the OS.**  
 > One HTML file. Zero servers. Full sovereignty.
 
-Live Demo → https://elos-max.github.io/i-am-os  
 (just open the single `index.html` — everything runs in your browser)
 
 https://github.com/ELOS-MAX/i-am-os/assets/12345678/screenshot-main-dark.png
@@ -124,9 +123,7 @@ You must:
 
 **Star this repo if you believe the browser should be the final operating system.**
 
-GitHub: https://github.com/ELOS-MAX/i-am-os  
-Org: https://github.com/ELOS-MAX  
-X: [@I_AM_OS](https://x.com/I_AM_OS) (soon)
+
 
 **-I-AM-OS-**  
 Because your mind deserves an operating system that respects its sovereignty.
