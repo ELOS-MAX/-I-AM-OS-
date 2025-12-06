@@ -84,7 +84,7 @@ Contact: James Chapman 📧 iconoclastdao@gmail.com / 1jbchap@gmail.com
 git clone https://github.com/ELOS-MAX/i-am-os.git
 cd i-am-os
 open index.html
-
+```
 Now you have a fully sovereign OS running locally.
 
 ⸻
